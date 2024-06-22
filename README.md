@@ -1,19 +1,31 @@
-# Hugo Example
+# Blank
 
-This directory is a brief example of a [Hugo](https://gohugo.io/) app that can be deployed to Vercel with zero configuration.
+Blank — starter [Hugo](https://gohugo.io/) theme for developers. Use it to make your own theme.
 
-## Deploy Your Own
+**[Demo](https://blank-demo.netlify.app/)**
 
-Deploy your own Hugo project with Vercel.
+![Blank theme screenshot](https://github.com/Vimux/blank/blob/master/images/splash.png)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hugo&template=hugo)
+## Installation
 
-_Live Example: https://hugo-template.vercel.app_
+In your Hugo site `themes` directory, run:
 
-### How We Created This Example
-
-To get started with Hugo for deployment with Vercel, you can use the [Hugo CLI](https://gohugo.io/commands/) to initialize the project:
-
-```shell
-$ hugo new site project-name
 ```
+git clone https://github.com/vimux/blank
+```
+
+Next, open `config.toml` in the base of the Hugo site and ensure the theme option is set to `blank`.
+
+```
+theme = "blank"
+```
+
+For more information read the official [quick start guide](https://gohugo.io/getting-started/quick-start/) of Hugo.
+
+## Contributing
+
+Have you found a bug or got an idea for a new feature? Feel free to use the [issue tracker](https://github.com/Vimux/blank/issues) to let me know. Or make directly a [pull request](https://github.com/Vimux/blank/pulls).
+
+## License
+
+This theme is released under the [MIT license](https://github.com/Vimux/blank/blob/master/LICENSE).
