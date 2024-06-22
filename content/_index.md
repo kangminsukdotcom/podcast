@@ -3,7 +3,7 @@
 
 <div style="text-align: center;">
   <a href="https://podcast.jagunbae.com/reviews">
-    <img src="/images/main-thumbnail.jpg" alt="Podcast Main Thumbnail" style="width:100%; max-width:600px;"/>
+    <img src="/images/main-thumbnail.jpg" alt="Podcast Main Thumbnail" style="width:100%; max-width:400px;"/>
   </a>
 </div>
 
