@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ko"
+title = "강단과 소신 팟캐스트"
+
+[markup.goldmark.renderer]
+  unsafe = true
