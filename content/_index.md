@@ -1,7 +1,11 @@
 ---
 ---
 
-![Podcast Main Thumbnail](images/main-thumbnail.jpg)
+<div style="text-align: center;">
+  <a href="https://podcast.jagunbae.com/reviews">
+    <img src="/images/main-thumbnail.jpg" alt="Podcast Main Thumbnail" style="width:100%; max-width:600px;"/>
+  </a>
+</div>
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://podcasts.apple.com/podcast/강소팟/id1701380319" class="button-a">Apple Podcast</a>
