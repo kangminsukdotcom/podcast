@@ -47,55 +47,63 @@ blockquote {
     margin-left: 0; /* Align with the body text */
   }
 
-.button-a {
+  .button {
     display: inline-block;
     padding: 10px 20px;
     margin: 10px;
     font-size: 16px;
     color: white;
-    background-color: #9933CC;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease;
-}
+  }
+  
+  .button.apple {
+    background-color: #9933CC; /* Apple Podcasts */
+  }
+  
+  .button.apple:hover {
+    background-color: #7A29A6;
+  }
+  
+  .button.spotify {
+    background-color: #1DB954; /* Spotify */
+  }
+  
+  .button.spotify:hover {
+    background-color: #1AA34A;
+  }
+  
+  .button.youtube {
+    background-color: #FF0000; /* YouTube */
+  }
+  
+  .button.youtube:hover {
+    background-color: #CC0000;
+  }
+  
+  /* Media query for mobile devices */
+  @media (max-width: 600px) {
+    .button {
+      display: block;
+      width: 80%;
+      margin: 10px auto;
+    }
+  }
 
-.button-s {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 10px;
-    font-size: 16px;
-    color: white;
-    background-color: #1DB954;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
-
-.button-y {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 10px;
-    font-size: 16px;
-    color: white;
-    background-color: #FF0000;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
-
-.button-a:hover{
+.button.apple:hover{
     color: white;
     box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 12%) 0px 1px 1px 0px, rgb(60 66 87 / 16%) 0px 0px 0px 1px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(60 66 87 / 8%) 0px 3px 9px 0px, rgb(60 66 87 / 8%) 0px 2px 5px 0px;
     transform: scale(1.05);
 }
 
-.button-s:hover{
+.button.spotify:hover{
     color: white;
     box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 12%) 0px 1px 1px 0px, rgb(60 66 87 / 16%) 0px 0px 0px 1px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(60 66 87 / 8%) 0px 3px 9px 0px, rgb(60 66 87 / 8%) 0px 2px 5px 0px;
     transform: scale(1.05);
 }
 
-.button-y:hover{
+.button.youtube:hover{
     color: white;
     box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 12%) 0px 1px 1px 0px, rgb(60 66 87 / 16%) 0px 0px 0px 1px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(60 66 87 / 8%) 0px 3px 9px 0px, rgb(60 66 87 / 8%) 0px 2px 5px 0px;
     transform: scale(1.05);
