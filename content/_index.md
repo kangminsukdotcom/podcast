@@ -15,7 +15,7 @@
 
 <div style="text-align: center; margin-top: 20px;">
   <button class="share-button" onclick="copyURL()">🔗</button>
-  <p id="share-notification" style="display:none; color: green;">강소팟 추천 감사합니다! 😉</p>
+  <p id="share-notification" style="display:none; color: green;">링크 복사 완료. 강소팟 추천 감사합니다! 😉</p>
 </div>
 
 <script>
