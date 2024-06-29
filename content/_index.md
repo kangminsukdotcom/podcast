@@ -8,7 +8,7 @@
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://podcasts.apple.com/podcast/강소팟/id1701380319" class="button apple">Apple Podcast</a>
+  <a href="https://podcasts.apple.com/kr/podcast/%EA%B0%95%EC%86%8C%ED%8C%9F/id1701380319" class="button apple">Apple Podcast</a>
   <a href="https://podcasters.spotify.com/pod/show/cheesylazy" class="button spotify">Spotify</a>
   <a href="https://www.youtube.com/playlist?list=PLxwFutPC1Kq53Iam6OeVNUNdpFJqK5ArH" class="button youtube">YouTube</a>
 </div>
