@@ -14,12 +14,8 @@ header {
 }
 
 a {
-    color: black;
-    text-decoration: underline;
-}
-
-a:hover {
     color: #3737b3;
+    text-decoration: none;
 }
 
 img {
