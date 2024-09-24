@@ -6,7 +6,7 @@
     <img src="/images/main-thumbnail.jpg" alt="Podcast Main Thumbnail" style="width:100%; max-width:400px;"/>
   </a>
 </div>
-<p style="text-align: center;">강단과 소신이 필요할 때 꺼내 듣는 일과 삶에 대한 진지한 대화.<br>강단과 소신 부부는 제주에서 콘텐츠 회사 '작은배'를 운영하고 있습니다.</p>
+<p style="text-align: center;">강단과 소신이 필요할 때 꺼내 듣는 일과 삶에 대한 진지한 대화.<br>강단과 소신 부부는 제주에서 콘텐츠 회사 '<a href="https://jagunbae.com">작은배</a>'를 운영하고 있습니다.</p>
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://podcasts.apple.com/kr/podcast/%EA%B0%95%EC%86%8C%ED%8C%9F/id1701380319" class="button apple">Apple Podcast</a>
   <a href="https://podcasters.spotify.com/pod/show/cheesylazy" class="button spotify">Spotify</a>
